@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Java project<br>🌱 I’m currently learning Java<br>⚡ Fun fact : Nothing is fun about me
+>🌱 I’m currently learning Java<br>
 
 
 # 💻 Tech Stack:
