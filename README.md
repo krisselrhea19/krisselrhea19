@@ -1,6 +1,6 @@
 # Hi, I'm Krissel Rhea 👋
 I’m a 3rd-year B.Tech student in Computer & Communication Engineering at NMAM Institute of Technology, Nitte.  
-I enjoy exploring technology through academic projects and I’m gradually building my skills in **databases, programming, and networking**.  
+I enjoy exploring technology through academic projects and I’m gradually building my skills in **cybersecurity and networking**.  
 
 ---
 
